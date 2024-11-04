@@ -2,10 +2,18 @@
 SQL Employee Tracker
 
 ## Description
-![Screenshot](assets/screenshot1.png)
-![Screenshot](assets/screenshot2.png)
 
 This is a command-line application to manage a company's employee database using Node.js, Inquirer, and PostgreSQL.
+
+![Screenshot](assets/screenshot1.png)
+
+![Screenshot](assets/screenshot2.png)
+
+[![video thumbnail](./Assets/thumbnail.png)](https://drive.google.com/file/d/1xfYP0u3Kx0By_SopPfkvqSIY6g_hAWYq/view)
+
+Video Link: https://drive.google.com/file/d/1xfYP0u3Kx0By_SopPfkvqSIY6g_hAWYq/view
+
+Repo: https://github.com/stephenw987/Employee_Tracker_12.git
 
 ## Usage
 
